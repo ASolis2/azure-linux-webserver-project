@@ -1,3 +1,9 @@
+# Azure Linux Web Server Project 🚀
+
+Deploy and secure a full Linux web server on Azure, host a custom website, and manage it using cloud-native best practices.
+
+---
+
 # Azure Linux Web Server Deployment
 
 ## Project Overview
