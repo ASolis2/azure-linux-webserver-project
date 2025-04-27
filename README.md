@@ -20,7 +20,19 @@ This project creates a Linux VM on Azure, installs Apache, hosts a custom websit
 - GitHub
 
 ## Screenshots
-(Add screenshots here after uploading)
+
+### Website Screenshot
+![Website Screenshot](website-screenshot.jpg)
+
+### Azure Portal Screenshot
+![Azure Portal Screenshot](azure-portal-screenshot.jpg)
+
+### SSH Terminal Screenshot
+![SSH Terminal Screenshot](ssh-terminal-screenshot.jpg)
+
+### UFW Firewall Status Screenshot
+![UFW Firewall Screenshot](ufw-firewall-screenshot.jpg)
+
 
 ## How to Recreate
 1. Create Resource Group
